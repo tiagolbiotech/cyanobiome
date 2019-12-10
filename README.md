@@ -1,2 +1,2 @@
 # cyanobiome
-Genomic insights into an expanded diversity of cyanobacteria reveals the extraordinary biosynthetic potential of Moorea and Okeania
+Insights into an expanded diversity of filamentous marine cyanobacterial genomes reveal an extraordinary biosynthetic potential
